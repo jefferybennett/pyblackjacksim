@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "maximumHandsToPlay": 5,
+        "decksInShoe": 5
+    },
+    "players": [
+        {
+            "name": "Player 1"
+        }
+    ]
+}
